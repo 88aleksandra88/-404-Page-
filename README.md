@@ -1,7 +1,7 @@
 # -404-Page-
 <img src="https://img-0.journaldunet.com/DiiKkfUVMXrtnhQR2IWEp8hXEpg=/1280x/smart/c64aaa86188643eba9ca6ac7e7f7c3ae/ccmcms-jdn/10984460.jpg">
 
-Published on following GitHub page [](https://88aleksandra88.github.io/-404-Page.io/)
+Published on following GitHub page (https://88aleksandra88.github.io/-404-Page.io/)
 
 Start :
 16/06/2020
